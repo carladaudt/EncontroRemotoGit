@@ -1,1 +1,2 @@
 ínicio do trabalho da funcionalidade login
+validação de e-mails do usuário 
